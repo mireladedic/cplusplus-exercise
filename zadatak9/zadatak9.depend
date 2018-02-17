@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1499688593 source:c:\users\mirela\documents\tehnike_programiranja - mirela.de\ajna_priprema\zadatak9\main.cpp
+	<iostream>
+	<list>
+	<forward_list>
+	<set>
+	<unordered_set>
+

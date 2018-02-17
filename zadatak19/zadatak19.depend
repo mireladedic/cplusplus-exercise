@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1499786235 source:c:\users\mirela\documents\tehnike_programiranja - mirela.de\ajna_priprema\zadatak19\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<string>
+	<utility>
+	<algorithm>
+

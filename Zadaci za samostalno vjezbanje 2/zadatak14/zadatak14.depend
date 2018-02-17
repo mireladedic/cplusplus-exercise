@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488977275 source:c:\users\mirela\documents\tehnike_programiranja - mirela.de\zadaci za samostalno vjezbanje 2\zadatak14\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

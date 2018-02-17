@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492879911 source:c:\users\mirela\documents\tehnike_programiranja - mirela.de\zadaca2\zadatak3\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+

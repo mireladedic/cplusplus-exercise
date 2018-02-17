@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499337146 source:c:\users\mirela\documents\tehnike_programiranja - mirela.de\ajna_priprema\zadatak8\main.cpp
+	<iostream>
+	<string>
+	<memory>
+

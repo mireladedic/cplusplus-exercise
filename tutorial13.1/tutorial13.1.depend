@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500117846 source:c:\users\mirela\documents\tehnike_programiranja - mirela.de\ajna_priprema\tutorial13.1\main.cpp
+	<iostream>
+	<stdexcept>
+	<cmath>
+
